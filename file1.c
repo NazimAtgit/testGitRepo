@@ -14,9 +14,7 @@ int z2 = z*z;
 printf("the result is : %d, \n",z);
 printf("z  squar is : %d \n", z2);
 printf("hello world from gcc \n");
-<<<<<<< HEAD
 printf(" this is  a version 2.0");
-=======
 print(" this is  a version 3.0 on branch newB");
->>>>>>> newB
+printf(" this is  a version 3.0 on branch newB");
 }
